@@ -30,9 +30,9 @@ The CIFAR-10 dataset contains:
 ### MLP (Multilayer Perceptron)
 
 - Multiple architectures with varying numbers of hidden layers (from 1 to 5) were tested.
-- Best result achieved with an MLP of 5 hidden layers, reaching:
-  - **Train Accuracy**: 81.72%
-  - **Test Accuracy**: 56.63%
+- Best result achieved with an MLP of 4 hidden layers, reaching:
+  - **Train Accuracy**: 63.32%
+  - **Test Accuracy**: 55.81%
 - Overfitting was reduced by using Dropout layers, but the overall performance was still limited compared to CNNs.
 
 ### CNN (Convolutional Neural Network)
