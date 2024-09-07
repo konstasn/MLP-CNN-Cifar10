@@ -69,7 +69,8 @@ This project was implemented using **Python** and **Google Colaboratory**. To re
 You can install these packages via pip:
 
 ```bash
-pip install tensorflow keras numpy matplotlib scikit-learn```
+pip install tensorflow keras numpy matplotlib scikit-learn
+```
 
 ## Running the Code
 
